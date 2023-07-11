@@ -1,0 +1,11 @@
+.hub{
+border-top: 8px solid cornflowerblue; 
+   background-color: tomato;
+   border-left: 8px solid cornflowerblue;
+    color: thistle;
+ margin: 12px;
+ padding: 10px;
+ border-radius: 10px;
+ 
+    box-shadow: 10px 10px 10px;
+}
